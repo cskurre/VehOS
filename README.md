@@ -1,6 +1,6 @@
 # VehOS
 
-Pronounced "Vee-ose" or "Veeh-ose"
+Pronounced "Vee-ose" or "Veeh-ohs"
 
 With all of the talk about Right To Repair and Open Source hardware and software, it's time we had a vehicle that was Open Source
 
